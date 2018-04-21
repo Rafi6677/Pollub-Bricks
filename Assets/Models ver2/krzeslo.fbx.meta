@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: ffde105826fcd294c81bd584089252a8
+timeCreated: 1512590161
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BezierCurve.001
+    100004: BezierCurve.002
+    100006: Camera
+    100008: Circle
+    100010: Circle.001
+    100012: Circle.002
+    100014: Circle.003
+    100016: Circle.004
+    100018: Circle.005
+    100020: Circle.006
+    100022: Circle.007
+    100024: Circle.008
+    100026: Circle.009
+    100028: Circle.010
+    100030: Circle.011
+    100032: Circle.012
+    100034: Circle.013
+    100036: Cube
+    100038: Cube.001
+    100040: Cylinder
+    100042: Cylinder.001
+    100044: Cylinder.002
+    100046: Cylinder.003
+    100048: Cylinder.004
+    100050: Cylinder.005
+    100052: Cylinder.006
+    100054: //RootNode
+    100056: Lamp
+    400000: BezierCurve
+    400002: BezierCurve.001
+    400004: BezierCurve.002
+    400006: Camera
+    400008: Circle
+    400010: Circle.001
+    400012: Circle.002
+    400014: Circle.003
+    400016: Circle.004
+    400018: Circle.005
+    400020: Circle.006
+    400022: Circle.007
+    400024: Circle.008
+    400026: Circle.009
+    400028: Circle.010
+    400030: Circle.011
+    400032: Circle.012
+    400034: Circle.013
+    400036: Cube
+    400038: Cube.001
+    400040: Cylinder
+    400042: Cylinder.001
+    400044: Cylinder.002
+    400046: Cylinder.003
+    400048: Cylinder.004
+    400050: Cylinder.005
+    400052: Cylinder.006
+    400054: //RootNode
+    400056: Lamp
+    2000000: Camera
+    2300000: BezierCurve
+    2300002: BezierCurve.001
+    2300004: BezierCurve.002
+    2300006: Circle
+    2300008: Circle.001
+    2300010: Circle.002
+    2300012: Circle.003
+    2300014: Circle.004
+    2300016: Circle.005
+    2300018: Circle.006
+    2300020: Circle.007
+    2300022: Circle.008
+    2300024: Circle.009
+    2300026: Circle.010
+    2300028: Circle.011
+    2300030: Circle.012
+    2300032: Circle.013
+    2300034: Cube
+    2300036: Cube.001
+    2300038: Cylinder
+    2300040: Cylinder.001
+    2300042: Cylinder.002
+    2300044: Cylinder.003
+    2300046: Cylinder.004
+    2300048: Cylinder.005
+    2300050: Cylinder.006
+    3300000: BezierCurve
+    3300002: BezierCurve.001
+    3300004: BezierCurve.002
+    3300006: Circle
+    3300008: Circle.001
+    3300010: Circle.002
+    3300012: Circle.003
+    3300014: Circle.004
+    3300016: Circle.005
+    3300018: Circle.006
+    3300020: Circle.007
+    3300022: Circle.008
+    3300024: Circle.009
+    3300026: Circle.010
+    3300028: Circle.011
+    3300030: Circle.012
+    3300032: Circle.013
+    3300034: Cube
+    3300036: Cube.001
+    3300038: Cylinder
+    3300040: Cylinder.001
+    3300042: Cylinder.002
+    3300044: Cylinder.003
+    3300046: Cylinder.004
+    3300048: Cylinder.005
+    3300050: Cylinder.006
+    4300000: Circle.012
+    4300002: Cube.001
+    4300004: Circle.013
+    4300006: Cube
+    4300008: BezierCurve.002
+    4300010: Circle.010
+    4300012: Cylinder.006
+    4300014: Circle.009
+    4300016: Circle.008
+    4300018: Circle.007
+    4300020: Circle.006
+    4300022: BezierCurve.001
+    4300024: Cylinder.004
+    4300026: BezierCurve
+    4300028: Circle.011
+    4300030: Circle.003
+    4300032: Cylinder.005
+    4300034: Cylinder.003
+    4300036: Circle.005
+    4300038: Circle.004
+    4300040: Circle.002
+    4300042: Cylinder.002
+    4300044: Circle.001
+    4300046: Cylinder.001
+    4300048: Circle
+    4300050: Cylinder
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fa86f86bfb0de2f4fb8388718f209551, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
